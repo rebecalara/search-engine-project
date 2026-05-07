@@ -135,6 +135,7 @@ search-engine-project/
 │   ├── package.json
 │   └── vite.config.js
 │
+├── screenshots/
 ├── .gitignore
 ├── docker-compose.yml
 ├── prometheus.yml
