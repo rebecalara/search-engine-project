@@ -42,8 +42,6 @@ A aplicação permite realizar buscas de palavras ou trechos em documentos TXT e
 
 ## 📸 Interface da Aplicação
 
-> Adicionar screenshot da interface principal da aplicação.
-
 ```md
 ![Interface](./screenshots/interface.png)
 ```
@@ -240,8 +238,6 @@ O dashboard desenvolvido no Grafana exibe:
 
 ## 📸 Dashboard Grafana
 
-> Adicionar screenshot do dashboard do Grafana.
-
 ```md
 ![Grafana](./screenshots/grafana.png)
 ```
@@ -270,8 +266,6 @@ A aplicação foi instrumentada com OpenTelemetry para coleta de:
 ---
 
 ## 📸 Jaeger Traces
-
-> Adicionar screenshot do Jaeger mostrando os traces.
 
 ```md
 ![Jaeger](./screenshots/jaeger.png)
