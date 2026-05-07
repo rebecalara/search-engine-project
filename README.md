@@ -42,9 +42,7 @@ A aplicação permite realizar buscas de palavras ou trechos em documentos TXT e
 
 ## 📸 Interface da Aplicação
 
-```md
 ![Interface](./screenshots/interface.png)
-```
 
 ---
 
@@ -238,9 +236,7 @@ O dashboard desenvolvido no Grafana exibe:
 
 ## 📸 Dashboard Grafana
 
-```md
 ![Grafana](./screenshots/grafana.png)
-```
 
 ---
 
@@ -267,9 +263,7 @@ A aplicação foi instrumentada com OpenTelemetry para coleta de:
 
 ## 📸 Jaeger Traces
 
-```md
 ![Jaeger](./screenshots/jaeger.png)
-```
 
 ---
 
